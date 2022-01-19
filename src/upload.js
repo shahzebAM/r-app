@@ -1,11 +1,6 @@
 const arr = [
     
     {
-        name: "Episode 78",
-       src: "//ok.ru/videoembed/3233411631776",
-       link: "https://ok6-13.vkuser.net/?expires=1640953091277&srcIp=39.51.255.39&pr=10&srcAg=CHROME&ms=95.142.206.140&type=3&sig=2nQyGJiQUds&ct=0&urls=45.136.21.76%3B185.226.53.74&clientType=1&zs=43&id=1992287390237"
-   },
-    {
         name: "Episode 77",
        src: "//ok.ru/videoembed/3233411631776",
        link: "https://ok6-13.vkuser.net/?expires=1640953091277&srcIp=39.51.255.39&pr=10&srcAg=CHROME&ms=95.142.206.140&type=3&sig=2nQyGJiQUds&ct=0&urls=45.136.21.76%3B185.226.53.74&clientType=1&zs=43&id=1992287390237"
