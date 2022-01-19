@@ -1,0 +1,13 @@
+body {
+  background-color: #12263A;
+}
+
+.main {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+  grid-gap: 2rem;
+}
+
+.mycard {
+  width: 12rem;
+}/*# sourceMappingURL=style1.css.map */
