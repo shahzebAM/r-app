@@ -1,9 +1,9 @@
 const arr = [
     
     {
-        name: "Episode 78 P1",
-       src: "//ok.ru/videoembed/4154984761885",
-       link: "https://givefastlink.com/wp-content/plugins/aio-video-downloader/download.php?source=odnoklassniki&media=NA=="
+        name: "Episode 78",
+       src: "//ok.ru/videoembed/3132698659419",
+       link: "https://ok6-5.vkuser.net/?expires=1642757319545&srcIp=103.150.209.76&pr=10&srcAg=CHROME&ms=95.142.206.132&type=3&sig=nqTiYf9M2Fw&ct=0&urls=45.136.22.37%3B185.226.53.58&clientType=1&zs=43&id=2030823606875"
    },
     
     {
