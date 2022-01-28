@@ -16,7 +16,7 @@ const MappingCard = () => {
 
         <Card className={'mycard'} style={{ backgroundColor: '#BFD7EA', marginTop: 20}} variant='outlined' sx={{ maxWidth: '15rem', marginLeft: 'auto', marginRight: 'auto' }}>
           <CardContent style={{backgroundColor: '#6096BA', padding: 0}}>
-            <Typography style={{color: '#000', backgroundColor: '#BFD7EA', fontWeight: 'bold'}} align='center' gutterBottom variant="h6" component="div">
+            <Typography style={{color: '#0FA3B1', backgroundColor: '#BFD7EA', fontWeight: 'bold'}} align='center' gutterBottom variant="h6" component="div">
               {value.name}
             </Typography>
 
