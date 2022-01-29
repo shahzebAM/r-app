@@ -14,21 +14,21 @@ const MappingCard = () => {
     <div className='main'>
       {arr.map((value) => (
 
-        <Card className={'mycard'} style={{ backgroundColor: '#AD6A6C', marginTop: 20}} variant='outlined' sx={{ maxWidth: '15rem', marginLeft: 'auto', marginRight: 'auto' }}>
-          <CardContent style={{backgroundColor: '#AD6A6C', padding: 0}}>
-            <Typography style={{color: '#ffff', backgroundColor: '#AD6A6C', fontWeight: 'bold'}} align='center' gutterBottom variant="h6" component="div">
+        <Card className={'mycard'} style={{ backgroundColor: '#403F4C', marginTop: 20}} variant='outlined' sx={{ maxWidth: '15rem', marginLeft: 'auto', marginRight: 'auto' }}>
+          <CardContent style={{backgroundColor: '#6096BA', padding: 0}}>
+            <Typography style={{color: '#a9a9a9', backgroundColor: '#403F4C', fontWeight: 'bold'}} align='center' gutterBottom variant="h6" component="div">
               {value.name}
             </Typography>
 
           </CardContent>
           
-          <CardMedia style={{backgroundColor: '#AD6A6C'}}
+          <CardMedia style={{backgroundColor: '#403F4C'}}
           >
             <iframe frameborder="0" allow="autoplay" allowfullscreen="true" style={{ width: '100%', height: '100%' }} src={value.src}></iframe>
           </CardMedia>
           
-          <CardActions style={{ justifyContent: 'center', backgroundColor: '#AD6A6C' }}>
-            <Button variant='contained' style={{backgroundColor: '#5D2E46'}} size="small" href={value.link}>Download</Button>
+          <CardActions style={{ justifyContent: 'center', backgroundColor: '#403F4C' }}>
+            <Button variant='contained' style={{backgroundColor: '#2C2B3C'}} size="small" href={value.link}>Download</Button>
             
           </CardActions>
         </Card>
@@ -51,3 +51,4 @@ function App() {
   )
 }
 export default App;
+
