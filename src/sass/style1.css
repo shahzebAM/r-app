@@ -4,10 +4,10 @@ body {
 
 .main {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(8rem, 0.5fr));
+  grid-template-columns: repeat(auto-fit, minmax(10rem, 0.5fr));
   grid-gap: 0.5rem;
 }
 
 .mycard {
-  width: 12rem;
+  width: 10rem;
 }/*# sourceMappingURL=style1.css.map */
