@@ -1,6 +1,11 @@
 const arr = [
    
    {
+       name: "Episode 86",
+       src: "//ok.ru/videoembed/3289845533306",
+       link: "https://ok6-3.vkuser.net/?expires=1647590833267&srcIp=39.52.128.231&pr=10&srcAg=CHROME&ms=95.142.206.130&type=3&sig=jSkfdTSANcc&ct=0&urls=45.136.22.18%3B45.136.21.28&clientType=1&zs=43&id=2254997555834"
+   },
+   {
        name: "Episode 85",
        src: "//ok.ru/videoembed/3273198668410",
        link: "https://ok6-2.vkuser.net/?expires=1646990795278&srcIp=39.52.128.231&pr=10&srcAg=CHROME&ms=95.142.206.129&type=3&sig=1RZ7kL7yMAA&ct=0&urls=45.136.21.38%3B45.136.22.27&clientType=1&zs=43&id=2233894636154"
