@@ -2,24 +2,24 @@ const arr = [
 
    {
        name: "Episode 93",
-       src: "//ok.ru/videoembed/3426503035514",
+       src: "https://watching.vn/e/kxdc77y54j21",
        link: "https://ok6-6.vkuser.net/?expires=1652433368155&srcIp=182.181.37.5&pr=10&srcAg=CHROME&ms=95.142.206.133&type=3&sig=KXF_EYxHKso&ct=0&urls=185.226.53.31%3B45.136.20.41&clientType=1&zs=43&id=2420831226490"
    },
    {
        name: "Episode 92",
-       src: "//ok.ru/videoembed/3393750239866",
+       src: "https://watching.vn/e/6my1cgpllbml",
        link: "https://ok6-14.vkuser.net/?expires=1651222382751&srcIp=39.51.254.92&pr=10&srcAg=CHROME&ms=95.142.206.141&type=3&sig=ttgz3gEeNzc&ct=0&urls=185.226.52.21%3B45.136.21.68&clientType=1&zs=43&id=2379091872378"
    },
    
    {
        name: "Episode 91",
-       src: "//ok.ru/videoembed/3375540537978",
+       src: "https://watching.vn/e/b6k4jc3huyo9",
        link: "https://ok6-14.vkuser.net/?expires=1650611765864&srcIp=39.52.187.177&pr=10&srcAg=CHROME&ms=95.142.206.141&type=3&sig=Gvj_zYXMJnE&ct=0&urls=185.226.52.71%3B45.136.22.14&clientType=1&zs=43&id=2357367147130"
    },
    
    {
        name: "Episode 90",
-       src: "//ok.ru/videoembed/3359847287418",
+       src: "https://watching.vn/e/xg6whq6ni1w2",
        link: "https://ok6-11.vkuser.net/?expires=1650007297885&srcIp=39.51.237.204&pr=10&srcAg=CHROME&ms=95.142.206.138&type=3&sig=80v8lRQtRm4&ct=0&urls=185.226.53.14%3B45.136.21.50&clientType=1&zs=43&id=2338784676474"
    },
    
