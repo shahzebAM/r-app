@@ -1,5 +1,9 @@
 const arr = [
-   
+   {
+       name: "Episode 95",
+       src: "//ok.ru/videoembed/3457931151994",
+       link: "#"
+   },
       {
        name: "Episode 94",
        src: "//ok.ru/videoembed/3442626595450",
