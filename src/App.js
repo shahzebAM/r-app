@@ -16,7 +16,7 @@ const MappingCard = () => {
 
         <Card className={'mycard'} style={{ backgroundColor: 'black', marginTop: 20}} variant='outlined' sx={{ maxWidth: '15rem', marginLeft: 'auto', marginRight: 'auto' }}>
           <CardContent style={{backgroundColor: '#fff', padding: 0}}>
-            <Typography style={{color: '#fff', backgroundColor: '#484848', fontWeight: 'bold'}} align='center' gutterBottom variant="h6" component="div">
+            <Typography style={{color: '#fff', backgroundColor: '#602020', fontWeight: 'bold'}} align='center' gutterBottom variant="h6" component="div">
               {value.name}
             </Typography>
 
@@ -27,8 +27,8 @@ const MappingCard = () => {
             <iframe frameborder="0" allow="autoplay" allowfullscreen="true" style={{ width: '100%', height: '100%' }} src={value.src}></iframe>
           </CardMedia>
           
-          <CardActions style={{ justifyContent: 'center', backgroundColor: 'black' }}>
-            <Button variant='contained' style={{backgroundColor: '#660033'}} size="small" href={value.link}>Download</Button>
+          <CardActions style={{ justifyContent: 'center', backgroundColor: '#602020' }}>
+            <Button variant='contained' style={{backgroundColor: '#260d0d'}} size="small" href={value.link}>Download</Button>
             
           </CardActions>
         </Card>
