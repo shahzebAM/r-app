@@ -27,8 +27,8 @@ const MappingCard = () => {
             <iframe frameborder="0" allow="autoplay" allowfullscreen="true" style={{ width: '100%', height: '100%' }} src={value.src}></iframe>
           </CardMedia>
           
-          <CardActions style={{ justifyContent: 'center', backgroundColor: 'rgb(96, 32, 32)' }}>
-            <Button variant='contained' style={{backgroundColor: 'rgb(96, 32, 32)'}} size="small" href={value.link}>Download</Button>
+          <CardActions style={{ justifyContent: 'center', backgroundColor: '#260d0d' }}>
+            <Button variant='contained' style={{backgroundColor: '#260d0d'}} size="small" href={value.link}>Download</Button>
             
           </CardActions>
         </Card>
