@@ -1,12 +1,12 @@
 const arr = [
    {
        name: "Episode 95",
-       src: "https://watching.vn/e/py0e1is7e48p",
-       link: "https://pietsopera.moly.cloud/xqx2o4bxpvokjiqbtgvsplif4sbnh3vplns4qkv53io6r7vks4qhocudhw2a/dq5bi5a5i2b6.mp4"
+       src: "https://watching.vn/e/znfv7so3x1dx",
+       link: "#"
    },
       {
        name: "Episode 94",
-       src: "//ok.ru/videoembed/3442626595450",
+       src: "https://watching.vn/e/py0e1is7e48p",
        link: "https://ok6-8.vkuser.net/?expires=1653040737837&srcIp=39.51.238.83&pr=10&srcAg=CHROME&ms=95.142.206.135&type=3&sig=EDAPPTduXvY&ct=0&urls=185.226.53.58%3B45.136.20.12&clientType=1&zs=43&id=2442558179962"
    },
 
