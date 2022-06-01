@@ -28,7 +28,7 @@ const MappingCard = () => {
           </CardMedia>
           
           <CardActions style={{ justifyContent: 'center', backgroundColor: 'rgb(96, 32, 32)' }}>
-            <Button variant='contained' style={{backgroundColor: '#260d0d'}} size="small" href={value.link}>Download</Button>
+            <Button variant='contained' style={{backgroundColor: 'rgb(96, 32, 32)'}} size="small" href={value.link}>Download</Button>
             
           </CardActions>
         </Card>
