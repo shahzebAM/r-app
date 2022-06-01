@@ -22,7 +22,7 @@ const MappingCard = () => {
 
           </CardContent>
           
-          <CardMedia style={{backgroundColor: '#260d0d'}}
+          <CardMedia style={{backgroundColor: '##f2d9d9'}}
           >
             <iframe frameborder="0" allow="autoplay" allowfullscreen="true" style={{ width: '100%', height: '100%' }} src={value.src}></iframe>
           </CardMedia>
