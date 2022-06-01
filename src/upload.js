@@ -1,7 +1,7 @@
 const arr = [
    {
        name: "Episode 95",
-       src: "https://watching.vn/e/py0e1is7e48p" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH="100%" HEIGHT="auto" allowfullscreen style="position:absolute,top:0,left:0,width:100%,height:100%",
+       src: "https://watching.vn/e/py0e1is7e48p",
        link: "https://pietsopera.moly.cloud/xqx2o4bxpvokjiqbtgvsplif4sbnh3vplns4qkv53io6r7vks4qhocudhw2a/dq5bi5a5i2b6.mp4"
    },
       {
