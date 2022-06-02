@@ -1,7 +1,7 @@
 const arr = [
      {
        name: "Episode 96",
-       src: "https://player-01.vidtower.com.pk/kurulus-96-urdu-vidtower/",
+       src: "https://vidtower.com.pk/player/watch.php?data=cLYPsmXbBr9dl/bjUye7KXEzo0KmrQciat+cHWPRmkmXEWWOS+JmRtDGbTEaS1eKfId5EBcAfkNiC4ZsEB1jsAnXYgJZfj13mFp4SYFgraUElrfMQ7TeNHIVgjN+PWnKsY9qWvlfbQ7b5/yVQl4M0jY3mgE+01rH9VIXledbq7IlGkJF+FVvIUln5d03bFGwxRkFjKzVY/mblxddK3e+vG1bu+Oo+YvkXiXoaI+Q783Prpg9BXQSF2ufus7Y19/fi9B/6eGHcZgQzCVOQ+q3Nn5A5GIzfs4kFMA6ln0WY+oBZJie30fH6RhtJRRgPzSqwsroAlnSkTL/",
        link: "https://vidtower.com.pk/download/2033/?dlm-dp-dl-force=1&dlm-dp-dl-nonce=702332a4a0"
    },
    {
