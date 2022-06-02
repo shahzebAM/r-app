@@ -1,4 +1,9 @@
 const arr = [
+     {
+       name: "Episode 96",
+       src: "https://player-01.vidtower.com.pk/kurulus-96-urdu-vidtower/",
+       link: "https://vidtower.com.pk/download/2033/?dlm-dp-dl-force=1&dlm-dp-dl-nonce=702332a4a0"
+   },
    {
        name: "Episode 95",
        src: "https://watching.vn/e/znfv7so3x1dx",
