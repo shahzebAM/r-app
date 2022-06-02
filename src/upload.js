@@ -1,7 +1,7 @@
 const arr = [
    {
        name: "Episode 95",
-       src: "https://watching.vn/e/byeugldu1nze",
+       src: "https://watching.vn/e/znfv7so3x1dx",
        link: "#"
    },
       {
