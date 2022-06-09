@@ -2,7 +2,7 @@ const arr = [
    {
        name: "Episode 97",
        src: "https://watching.vn/e/m1q49htramra",
-       link: "https://player.vimeo.com/progressive_redirect/playback/718569065/rendition/1080p/file.mp4?loc=external&signature=6c355ab109b34f2863fcaa6e25ddb57ecda1bcd4af493c8ec8ea9b70246546e8"
+       link: "https://download-video.akamaized.net/playback/472611cc-b9f2-4cc2-9edd-555fdf013b74/01ca19b4-d24e9dde?__token__=st=1654769478~exp=1654783878~acl=%2Fplayback%2F472611cc-b9f2-4cc2-9edd-555fdf013b74%2F01ca19b4-d24e9dde%2A~hmac=584e9b467b4167ca4bf9883ae69d2fac6ed3c285b3da5cd0b7aae9b652a2b26c"
    },
      {
        name: "Episode 96",
