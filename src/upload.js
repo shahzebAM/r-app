@@ -1,7 +1,7 @@
 const arr = [
    {
        name: "Episode 97",
-       src: "//ok.ru/videoembed/3501463243386",
+       src: "https://watching.vn/e/72m8trj6ouuv",
        link: "https://download-video.akamaized.net/playback/472611cc-b9f2-4cc2-9edd-555fdf013b74/01ca19b4-d24e9dde?__token__=st=1654769478~exp=1654783878~acl=%2Fplayback%2F472611cc-b9f2-4cc2-9edd-555fdf013b74%2F01ca19b4-d24e9dde%2A~hmac=584e9b467b4167ca4bf9883ae69d2fac6ed3c285b3da5cd0b7aae9b652a2b26c"
    },
      {
