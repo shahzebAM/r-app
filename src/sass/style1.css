@@ -4,7 +4,7 @@ body {
 
 .main {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(15rem, 0.5fr));
+  grid-template-columns: repeat(auto-fit, minmax(8rem, 0.5fr));
   grid-gap: 0.8rem;
 }
 
