@@ -4,11 +4,11 @@ body {
 
 .main {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
   grid-gap: 0.8rem;
 }
 
 .mycard {
-  width: 100%;
+  width: 150%;
   height: 90%;
 }/*# sourceMappingURL=style1.css.map */
