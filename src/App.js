@@ -14,7 +14,7 @@ const MappingCard = () => {
     <div className='main'>
       {arr.map((value) => (
 
-        <Card className={'mycard'} style={{ backgroundColor: '#f2d9d9', marginTop: 20}} variant='outlined' sx={{ maxWidth: '20rem', marginLeft: 'auto', marginRight: 'auto' }}>
+        <Card className={'mycard'} style={{ backgroundColor: '#f2d9d9', marginTop: 20}} variant='outlined' sx={{ maxWidth: '15rem', marginLeft: 'auto', marginRight: 'auto' }}>
           <CardContent style={{backgroundColor: '#fff', padding: 0}}>
             <Typography style={{color: '#fff', backgroundColor: '#602020', fontWeight: 'bold'}} align='center' gutterBottom variant="h6" component="div">
               {value.name}
