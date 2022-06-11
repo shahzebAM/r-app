@@ -6,7 +6,8 @@ const arr = [
    },
      {
        name: "Episode 96",
-       src: "https://watching.vn/e/l28cczu70l35",
+//        src: "https://watching.vn/e/l28cczu70l35",
+       src: "https://player-01.vidtower.com.pk/kurulus-96-urdu-vidtower/",
        link: "https://ok6-15.vkuser.net/?expires=1654260108427&srcIp=39.51.244.210&pr=10&srcAg=CHROME&ms=95.142.206.142&type=3&sig=lwVsbuEqs-A&ct=0&urls=185.226.53.59%3B185.226.52.21&clientType=1&zs=43&id=2486317615738"
    },
    {
