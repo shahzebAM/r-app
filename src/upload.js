@@ -145,7 +145,7 @@ const arr = [
    {
       
        name: "Episode 72",
-       src: "https://peerlook.ru/static/streaming-playlists/hls/9e527e83-7561-43fc-bc84-afc590630fb0/6e52d885-0eec-462e-a937-8d9c6648742c-master.m3u8",
+       src: "//ok.ru/videoembed/3837268331037",
        link: "https://ok6-1.vkuser.net/?expires=1637915967272&srcIp=119.63.139.54&pr=10&srcAg=CHROME&ms=95.142.206.128&type=3&sig=UH2jKmvBdwQ&ct=0&urls=45.136.21.75%3B185.226.52.30&clientType=1&zs=43&id=1936254307061"
    }
 ]
