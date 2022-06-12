@@ -1,13 +1,12 @@
 const arr = [
    {
        name: "Episode 97",
-       src: "https://watching.vn/e/72m8trj6ouuv",
+       src: "//ok.ru/videoembed/3501463243386",
        link: "https://download-video.akamaized.net/playback/472611cc-b9f2-4cc2-9edd-555fdf013b74/01ca19b4-d24e9dde?__token__=st=1654769478~exp=1654783878~acl=%2Fplayback%2F472611cc-b9f2-4cc2-9edd-555fdf013b74%2F01ca19b4-d24e9dde%2A~hmac=584e9b467b4167ca4bf9883ae69d2fac6ed3c285b3da5cd0b7aae9b652a2b26c"
    },
      {
        name: "Episode 96",
-//        src: "https://watching.vn/e/l28cczu70l35",
-       src: "https://player-01.vidtower.com.pk/kurulus-96-urdu-vidtower/",
+       src: "https://watching.vn/e/l28cczu70l35",
        link: "https://ok6-15.vkuser.net/?expires=1654260108427&srcIp=39.51.244.210&pr=10&srcAg=CHROME&ms=95.142.206.142&type=3&sig=lwVsbuEqs-A&ct=0&urls=185.226.53.59%3B185.226.52.21&clientType=1&zs=43&id=2486317615738"
    },
    {
