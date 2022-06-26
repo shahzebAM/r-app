@@ -11,12 +11,9 @@ body {
 .cards {
   background-color: #d8cfcf; }
 
-.btn {
-  background-color: red; }
 
-a{
+#btn{
   color: #000;
   font-size: medium;
   font-weight: bold; }
 
-/* .MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButtonBase-root.btn.css-1e6y48t-MuiButtonBase-root-MuiButton-root { */
