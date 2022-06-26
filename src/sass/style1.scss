@@ -1,15 +1,24 @@
-body{
-    background-color: #E3F2FD;
-}
-
-.main{
+body {
+    background-color: #aa9c85; }
+  
+  .main {
+    margin-left: 10px;
+    margin-right: 10px;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(12rem,1fr));
-    grid-gap: 2rem;
+    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+    grid-gap: 2rem; }
+  
+.cards{
+    background-color: rgb(216, 207, 207);
 }
 
-.mycard{
-    width: 12rem;
+.btn{
+    background-color: red;
 }
 
-
+a.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButtonBase-root.btn.css-1e6y48t-MuiButtonBase-root-MuiButton-root{
+    color: #000;
+    font-size: medium;
+    font-weight: bold;
+}
+  
