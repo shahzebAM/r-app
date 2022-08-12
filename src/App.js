@@ -18,7 +18,7 @@ const MappingCard = () => {
           <div class="cards">
             <div style={{ textAlign: 'center' }}>
               <div class="card">
-                <h3 style={{ fontSize: '1.1rem', marginBottom: 5 }}>{value.name}</h3>
+                <h3 style={{ fontSize: '3rem', marginBottom: 5 }}>{value.name}</h3>
                 <iframe frameborder="0" allow="autoplay" allowfullscreen="true" style={{ width: '100%', height: '100%' }} src={value.src}></iframe>
 
 
