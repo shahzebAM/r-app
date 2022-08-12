@@ -22,7 +22,7 @@ const MappingCard = () => {
                 <iframe frameborder="0" allow="autoplay" allowfullscreen="true" style={{ width: '100%', height: '100%' }} src={value.src}></iframe>
 
 
-                <Button id='btn' variant='text' size="large" href={value.link}>Download</Button>
+                <Button id='btn' variant='outlined' size="large" href={value.link}>Download</Button>
               </div>
 
 
