@@ -14,12 +14,12 @@ body {
 
 
 #btn{
-  color: #000;
+  color: #d8cfcf;
   font-size: 0.9rem;
   font-weight: bold;
-  border:5px solid #aa9c85;
+  border:5px solid;
   border-radius: 2rem;
-  background-color : red;
+  background-color : #aa9c85;
 }
 
  
