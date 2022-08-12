@@ -9,7 +9,8 @@ body {
   grid-gap: 2rem; }
 
 .cards {
-  background-color: #d8cfcf; }
+  background-color: #d8cfcf;
+  border-radius : 5px }
 
 
 #btn{
