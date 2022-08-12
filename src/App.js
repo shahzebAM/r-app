@@ -18,11 +18,11 @@ const MappingCard = () => {
           <div class="cards">
             <div style={{ textAlign: 'center' }}>
               <div class="card">
-                <h3 style={{ fontSize: 20, marginBottom: 5 }}>{value.name}</h3>
+                <h3 style={{ fontSize: 18, marginBottom: 5 }}>{value.name}</h3>
                 <iframe frameborder="0" allow="autoplay" allowfullscreen="true" style={{ width: '100%', height: '100%' }} src={value.src}></iframe>
 
 
-                <Button id='btn' variant='text' size="medium" href={value.link}>Download</Button>
+                <Button id='btn' variant='text' size="large" href={value.link}>Download</Button>
               </div>
 
 
