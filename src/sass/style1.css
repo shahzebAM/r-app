@@ -5,7 +5,7 @@ body {
   margin-left: 10px;
   margin-right: 10px;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(5rem, 1fr));
   grid-gap: 2rem; }
 
 .cards {
