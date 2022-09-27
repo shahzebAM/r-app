@@ -1,5 +1,5 @@
 body {
-  background-color: #E8DFCA; }
+  background-color: #aa9c85; }
 
 .main {
   margin-left: 10px;
@@ -9,22 +9,17 @@ body {
   grid-gap: 2rem; }
 
 .cards {
-  background-color: #7895B2;
+  background-color: #d8cfcf;
   border-radius : 0.5rem; }
 
 
 #btn{
-  color: #ffff;
+  color: #222021;
   font-size: 0.9375rem;
   font-weight: bold;
   border: 4px solid #d8cfcf;
   border-radius: 0.8rem;
-  background-color : #AEBDCA;
+  background-color : #aa9c85;
   padding-left : 15px;
   padding-right : 15px;
 }
-
- 
-
-
-
