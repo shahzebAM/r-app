@@ -1,5 +1,5 @@
 body {
-  background-color: #CEAB93; }
+  background-color: #E8DFCA; }
 
 .main {
   margin-left: 10px;
@@ -9,12 +9,12 @@ body {
   grid-gap: 2rem; }
 
 .cards {
-  background-color: #FFFBE9;
+  background-color: #7895B2;
   border-radius : 0.5rem; }
 
 
 #btn{
-  color: #222021;
+  color: #AEBDCA;
   font-size: 0.9375rem;
   font-weight: bold;
   border: 4px solid #d8cfcf;
