@@ -10,7 +10,8 @@ body {
 
 .cards {
   background-color: #d8cfcf;
-  border-radius : 0.5rem; }
+  border-radius : 0.5rem; 
+  color: red; }
 
 
 #btn{
