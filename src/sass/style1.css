@@ -5,15 +5,14 @@ body {
   margin-left: 10px;
   margin-right: 10px;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
   grid-gap: 2rem; }
 
 .cards {
-  background-color: #d0ddddfd;
+  background-color: #d0dddafd;
   border-radius : 0.5rem; 
 
 }
-
 
 #btn{
   color: #ffffff;
