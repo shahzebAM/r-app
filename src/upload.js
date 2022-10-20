@@ -4,7 +4,7 @@ const arr =
    {
        name: "Episode 101",
        src: "https://player.vimeo.com/video/762129378?h=85e52af130",
-       link: "https://m.ok.ru/dk?st.cmd=moviePlaybackRedirect&st.sig=4708fae7b9077ce978dc2906339c457ea7bdd799&st.mq=3&st.mvid=4253983509131&st.ip=39.52.228.176&st.dla=on&st.exp=1666421565667&st.hls=off&_prevCmd=movieLayer&tkn=3776",
+       link: "#",
    },
    {
        name: "Episode 100",
