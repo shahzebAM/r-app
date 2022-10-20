@@ -4,7 +4,7 @@ const arr =
    {
        name: "Episode 101",
        src: "https://player.vimeo.com/video/762129378?h=85e52af130",
-       link: "https://ok6-14.vkuser.net/?expires=1665728169205&srcIp=39.52.215.90&pr=10&srcAg=CHROME&ms=95.142.206.141&type=3&sig=0usbicskb5k&ct=0&urls=185.226.52.37%3B45.136.20.22&clientType=1&zs=43&id=3079899253387",
+       link: "https://m.ok.ru/dk?st.cmd=moviePlaybackRedirect&st.sig=4708fae7b9077ce978dc2906339c457ea7bdd799&st.mq=3&st.mvid=4253983509131&st.ip=39.52.228.176&st.dla=on&st.exp=1666421565667&st.hls=off&_prevCmd=movieLayer&tkn=3776",
    },
    {
        name: "Episode 100",
