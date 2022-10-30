@@ -3,8 +3,8 @@ const arr =
    
      {
        name: "Episode 102",
-       src: "https://player.vimeo.com/video/764390105?h=b8eec5c5d5",
-       link: "https://download-video.akamaized.net/2/download/7c47f530-9132-463f-82de-0e76599070e5/b1b505af-537a64df/ko102ur1080p%20%28720p%29.mp4?__token__=st=1666854036~exp=1666940335~acl=%2F2%2Fdownload%2F7c47f530-9132-463f-82de-0e76599070e5%2Fb1b505af-537a64df%2Fko102ur1080p%2520%2528720p%2529.mp4%2A~hmac=b42a87ccb81c1ebb14b739c352fcf197f07810e217fa40b6d5458254cb7f616a&r=dXMtY2VudHJhbDE%3D",
+       src: "https://player.vimeo.com/video/764595788?h=4c941a18c3"
+       link: "#",
    },
 
    {
