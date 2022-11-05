@@ -19,7 +19,8 @@ body {
   grid-gap: 2rem; }
 
 .cards {
-  background-color: #d0dddafd;
+  background-color: #212229;
+/*  #d0dddafd  */;
   border-radius : 0.5rem; 
 
 }
