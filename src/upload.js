@@ -3,7 +3,7 @@ const arr =
 
    {
        name: "Episode 106",
-       src: "https://player.vimeo.com/video/776867290",
+       src: "https://player.vimeo.com/video/777147665",
        link: "https://player.vimeo.com/progressive_redirect/download/776867290/container/a5e62fd7-4267-474a-9c0e-8fc1413ce6d2/92abf50b-8196b9b4/ko106urhd.mp4%20%28720p%29.mp4?expires=1669964113&loc=external&signature=73f74152530625038ddc1a9dfafc8f991f07fab66caf9bb195c82f13b848c749"
    },
 
