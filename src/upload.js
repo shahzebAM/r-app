@@ -4,7 +4,7 @@ const arr =
     {
         name: "Episode 113",
         src:  "https://player.vimeo.com/video/790646959",
-        link: "https://cdn-104.anonfiles.com/Sek8CbS5y7/e96f8379-1674113750/Kurulus113Urdu720p.mp4-h264_720p.mp4"
+        link: "https://player.vimeo.com/progressive_redirect/download/790646959/container/f51fa448-ded4-4375-a9c2-99b125dea3a8/e5b35308-9d2bafd1/ko113ur1080p%20%28720p%29.mp4?expires=1674200360&loc=external&signature=7d8089e478e3d3f1032691e1990e80f4f487c1565721e735bbb740fab29e0ee0"
     },
 
     {
