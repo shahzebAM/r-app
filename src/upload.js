@@ -3,13 +3,13 @@ const arr =
 
     {
         name: "Episode 114",
-        src:  "https://player.vimeo.com/video/792833982",
+        src:  "https://watching.vn/e/tcvuhcplnuuh",
         link: "https://player.vimeo.com/progressive_redirect/download/792833982/container/5f6fc521-0192-4838-9459-95595239a12d/ee8b161f-0b622afa/ko114urhd.mp4%20%28720p%29.mp4?expires=1674799306&loc=external&signature=c11ba3ea6353afb061d4e855e23d4506e469526b16624f8a4481c229f53a0772"
     },
 
     {
         name: "Episode 113",
-        src:  "https://player.vimeo.com/video/792833982",
+        src:  "https://watching.vn/e/oo7iayv99kks",
         link: "https://player.vimeo.com/progressive_redirect/download/790646959/container/f51fa448-ded4-4375-a9c2-99b125dea3a8/e5b35308-9d2bafd1/ko113ur1080p%20%28720p%29.mp4?expires=1674200360&loc=external&signature=7d8089e478e3d3f1032691e1990e80f4f487c1565721e735bbb740fab29e0ee0"
     },
 
