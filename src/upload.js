@@ -9,7 +9,7 @@ const arr =
 
     {
         name: "Episode 114",
-        src:  "https://watching.vn/e/tcvuhcplnuuh",
+        src:  "https://www.aparat.com/video/video/embed/videohash/3SjAb/vt/frame",
         link: "https://player.vimeo.com/progressive_redirect/download/792833982/container/5f6fc521-0192-4838-9459-95595239a12d/ee8b161f-0b622afa/ko114urhd.mp4%20%28720p%29.mp4?expires=1674799306&loc=external&signature=c11ba3ea6353afb061d4e855e23d4506e469526b16624f8a4481c229f53a0772"
     },
 
