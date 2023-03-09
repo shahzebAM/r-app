@@ -3,7 +3,7 @@ const arr =
     
     {
         name: "Episode 117",
-        src: "https://player.vimeo.com/video/806162465",
+        src:  "https://player.vimeo.com/video/806162465",
         link: "https://player.vimeo.com/progressive_redirect/download/806162465/container/699b3c99-edb2-43e7-a8d6-1e9376cfe1bf/9147bcca-cf3274d9/ko117ur1080p.mp4%20%28720p%29.mp4?expires=1678428698&loc=external&signature=4d5d71a9a9cb0dc295d7caf69ea6a88ee98301a51a60258a923efae1299623bc"
 
     },
@@ -16,7 +16,7 @@ const arr =
     },
     {
         name: "Episode 115",
-        src:  "https://player.vimeo.com/video/795103593",
+        src:  "https://www.aparat.com/video/video/embed/videohash/ZIKiH/vt/frame",
         link: "https://player.vimeo.com/progressive_redirect/download/795103593/container/d7557c3d-a8dc-44b2-b56b-1a8cc1603b61/1043267b-3fd88d62/ko115ur1080p.mp4%20%28720p%29.mp4?expires=1675400560&loc=external&signature=2c4a06e3c53603df55804435feb1e255980a0dbb64f374aecb95ea3425083c1d"
     },
 
