@@ -3,7 +3,7 @@ const arr =
 
     {
         name: "Episode 119",
-        src:  "//ok.ru/videoembed/810882923",
+        src:  "https://player.vimeo.com/video/810882923",
         link: "https://player.vimeo.com/progressive_redirect/download/810882923/container/5db413a1-042b-4254-aed8-0aa3f53cc7de/0dc17d44-4adfbb8f/ko119fullurdu.mp4%20%28720p%29.mp4?expires=1679679050&loc=external&signature=3d0c9ea0c9c6f6f4661c1e202ca922f5b66006569ffd2ae0fb5a2f1ed7d21019"
     },
 
