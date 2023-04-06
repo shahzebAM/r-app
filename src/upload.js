@@ -1,5 +1,11 @@
 const arr =
 [ 
+    
+    {
+        name: "Episode 120",
+        src:  "https://www.aparat.com/video/video/embed/videohash/yTJui/vt/frame",
+        link: "https://s3.ap-northeast-1.wasabisys.com/osmanonlinebangla/kurulus-urdu/ko120.mp4"
+    },
 
     {
         name: "Episode 119",
