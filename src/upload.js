@@ -1,6 +1,10 @@
 const arr =
 [ 
-    
+    {
+        name: "Episode 125",
+        src: "https://player.vidtower.pro/vidtower/video/172",
+        link: "#"
+    },
     {
         name: "Episode 121",
         src:  "https://player.vimeo.com/video/817139950?h=74a0df40fa",
